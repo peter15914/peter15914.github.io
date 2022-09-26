@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "zTimer3 (wxWidgets version)"
+date:   2018-05-01
+categories: projects
+---
+[zTimer](https://github.com/peter15914/ztimer), переписанный на C++/wxWidgets.
+
+Использую его под Linux.
+
+
+[GitHub](https://github.com/peter15914/ztimer3_wx)
+
+<img src="https://raw.githubusercontent.com/peter15914/ztimer3_wx/master/img/ztimer3_wx_001.png"/>

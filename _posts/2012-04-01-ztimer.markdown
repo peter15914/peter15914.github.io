@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "zTimer"
+date:   2012-04-01
+categories: projects
+---
+Небольшое приложение для отслеживания времени. Написано на C# (.NET Framework) под Windows.
+
+Писал конкретно для себя, постоянно использую его многие годы.
+
+
+[GitHub](https://github.com/peter15914/ztimer)
+
+<img src="https://raw.githubusercontent.com/peter15914/ztimer/master/img/001.png"/>
+<img src="https://raw.githubusercontent.com/peter15914/ztimer/master/img/008.png"/>
+<img src="https://raw.githubusercontent.com/peter15914/ztimer/master/img/005.png"/>
