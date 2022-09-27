@@ -4,4 +4,4 @@ title: Резюме
 permalink: /resume/
 ---
 
-Резюме
+[Моё резюме на Хабр Карьера](https://career.habr.com/nathan2049)
