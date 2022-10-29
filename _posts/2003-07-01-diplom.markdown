@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Программный комплекс приближения функций на нерегулярных сетках (диплом, ТюмГУ, 2003)"
+date:   2003-07-01
+categories: univercity
+---
+В дипломной работе рассматривается задача приближения функций двумерными кубическими сплайнами на нерегулярной сетке.
+
+Дальше собирался развивать эту тему в аспирантуре, однако выяснилось, что аспирантура и наука слабо связаны.
+
+[GitHub](https://github.com/peter15914/diplom)
+
+<img src="https://raw.githubusercontent.com/peter15914/diplom/main/img/diplom_001.jpg"/>
+<img src="https://raw.githubusercontent.com/peter15914/diplom/main/img/diplom_006.jpg"/>
+<img src="https://raw.githubusercontent.com/peter15914/diplom/main/img/diplom_003.jpg"/>
+
