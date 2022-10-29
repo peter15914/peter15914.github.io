@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Школьные соревнования"
+date:   1997-01-01
+categories: contests
+---
+Победитель и призёр областной олимпиады по математике.
+
+Многократный победитель и призёр городских олимпиад по физике и математике.
+
+Окончил школу в 1998 г с золотой медалью.
+
+![](/assets/img/1997_school_001.jpg)
+<!--more-->
+![](/assets/img/1997_school_002.jpg)
+![](/assets/img/1997_school_003.jpg)
+![](/assets/img/1997_school_004.jpg)
+![](/assets/img/1997_school_005.jpg)
+![](/assets/img/1997_school_006.jpg)
+![](/assets/img/1997_school_007.jpg)
+![](/assets/img/1997_school_008.jpg)
+![](/assets/img/1997_school_009.jpg)
+![](/assets/img/1997_school_010.jpg)
+![](/assets/img/1997_school_011.jpg)
+![](/assets/img/1997_school_012.jpg)
