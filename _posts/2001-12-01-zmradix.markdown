@@ -7,7 +7,6 @@ categories: univercity
 Придумал сортировку, которая работает быстрее QuickSort Хоара и распределяющей поразрядной Сьюворда.
 
 В те времена мне казалось, что это очень круто.
-Сейчас я так не считаю.
 
 [Текст статьи](https://github.com/peter15914/zmradix/blob/main/text/zmradix_article.pdf)
 
