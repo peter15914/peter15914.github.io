@@ -5,11 +5,12 @@ date:   2022-05-01
 categories: projects
 ---
 
-Нефтяная отрасль.
-[OIS Terra](https://oissolutions.net/ois-terra/) - цифровая модель продуктивного пласта.
-[OIS iField](https://oissolutions.net/solutions-ru/) - интеллектуальное месторождение.
-
 Занимался бэкендом на C# и фронтендом на React/TypeScript.
+Нефтяная отрасль.
+
+[OIS Terra](https://oissolutions.net/ois-terra/) - цифровая модель продуктивного пласта.
+
+[OIS iField](https://oissolutions.net/solutions-ru/) - интеллектуальное месторождение.
 
 ## Задачи
 * участие в разработке крутого софта для нефтяников на C#, ASP.NET, TypeScript, React
@@ -22,4 +23,4 @@ categories: projects
 * прокачал скиллы как backend-программист на C#, ASP.NET
 * прокачал скиллы как frontend-программист на чистом JavaScript, TypeScript, React
 * внезапно прокачал скиллы в написании сложнейших SQL-запросов на тысячу строк, под Oracle, SAP HANA, PostgreSQL, написании хранимок, проектировании БД
-* сделал модуль 3D-визуализация геологических данных как в Petrel, но в браузере
+* сделал модуль 3D-визуализации геологических данных как в Petrel, но в браузере
