@@ -6,8 +6,7 @@ categories: projects
 ---
 
 ПО для генерации текстов, почти не отличимых от написанных человеком.
-
-Писал для себя, много использовал. Написано под Windows на C++, Boost, Lua, SQLite, curl.
+Писал для себя, много использовал. Написано под Windows на C++03, Boost, Lua, SQLite, curl.
 
 [GitHub](https://github.com/peter15914/ztext-generator)
 
